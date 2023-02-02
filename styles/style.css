@@ -195,6 +195,9 @@ img {
   justify-content: center;
   text-align: center;
 }
+#tab-2-content .tab-2-content-top a {
+  height: 50%;
+}
 #tab-2-content .tab-2-content-bottom {
   margin-top: 2rem;
   display: grid;
